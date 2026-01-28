@@ -1,0 +1,9 @@
+this is the file structure:
+DeadlockConcurrencySimulator/
+│
+├── main.py                # Tkinter GUI
+├── deadlock_detection.py  # Wait-for graph + cycle detection
+├── bankers.py             # Banker’s algorithm
+├── producer_consumer.py   # Semaphore demo
+├── philosophers.py        # Dining philosophers
+└── README.md
